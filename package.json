@@ -1,0 +1,19 @@
+{
+  "name": "deployingdemo",
+  "version": "1.0.0",
+  "description": "Heroku deploying test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "DeployingDemo"
+  },
+  "author": "ristotoldsep",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
